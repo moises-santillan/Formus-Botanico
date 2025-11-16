@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ébano
-permalink: /Ebano/
+title: Clasifiación de las Plantas
+permalink: /botanica/clasificacion/
 ---
 
 ## El Colegio Formus
