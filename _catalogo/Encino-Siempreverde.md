@@ -6,7 +6,7 @@ nombre_cientifico: Quercus fusiformis
 permalink: /Catalogo/Encino-Siempreverde/
 ---
 
-## Taxonomía
+### Taxonomía
 
 * **Reino:** Plantae
 * **Clase:** Magnoliopsida
@@ -17,17 +17,17 @@ permalink: /Catalogo/Encino-Siempreverde/
 
 ---
 
-## Apariencia y Tamaño
+### Apariencia y Tamaño
 
-El Encino Siempreverde es muy valorado en el noreste de México por su **porte robusto** y su capacidad de proveer sombra durante todo el año.
+El Encino Siempreverde es muy valorado en el noreste de México por su porte robusto y su capacidad de proveer sombra durante todo el año.
 
-* **Altura:** Generalmente crece entre **8 y 15 metros**, aunque puede alcanzar más.
-* **Tronco:** Corto, grueso y a menudo tortuoso en especímenes viejos. La corteza es **gris oscura o negruzca**, gruesa, surcada y áspera.
-* **Copa:** Amplia, densa y muy extendida, a menudo más ancha que alta, lo que le da una silueta característica de **gran parasol** . Es la razón principal por la que se utiliza en el paisajismo urbano.
+* **Altura:** Generalmente crece entre 8 y 15 metros, aunque puede alcanzar más.
+* **Tronco:** Corto, grueso y a menudo tortuoso en especímenes viejos. La corteza es gris oscura o negruzca, gruesa, surcada y áspera.
+* **Copa:** Amplia, densa y muy extendida, a menudo más ancha que alta, lo que le da una silueta característica de gran parasol. Es la razón principal por la que se utiliza en el paisajismo urbano.
 
 ---
 
-## Hojas
+### Hojas
 
 * **Tipo:** Son hojas simples **perennifolias** (de ahí el nombre "siempreverde"), lo que significa que el árbol mantiene su follaje todo el año.
 * **Forma:** Elípticas o lanceoladas, gruesas y coriáceas (de textura similar al cuero).
@@ -35,14 +35,14 @@ El Encino Siempreverde es muy valorado en el noreste de México por su **porte r
 
 ---
 
-## Raíces
+### Raíces
 
 * Desarrolla un sistema radicular fuerte, amplio y profundo*
 , lo que le confiere una excelente resistencia a la sequía y lo hace muy estable ante vientos fuertes, una característica crucial en el clima seco de la región.
 
 ---
 
-## Flores
+### Flores
 
 Es una especie **monoica**. Las flores son pequeñas, poco vistosas y la floración ocurre típicamente a principios de la primavera.
 
@@ -52,7 +52,7 @@ Es una especie **monoica**. Las flores son pequeñas, poco vistosas y la floraci
 
 ---
 
-## Semillas
+### Semillas
 
 * **Nombre:** Bellotas.
 * **Características:** Ovoides o elipsoidales, de pequeño a mediano tamaño. Están cubiertas en su base por una cúpula poco profunda con escamas grises y peludas.
@@ -60,27 +60,27 @@ Es una especie **monoica**. Las flores son pequeñas, poco vistosas y la floraci
 
 ---
 
-## Distribución Natural
+### Distribución Natural
 
 * **Región:** Endémico del sureste de los Estados Unidos (Texas, Oklahoma) y el noreste de México, incluyendo gran parte de Nuevo León (principalmente la región de Monterrey y las estribaciones de la Sierra Madre Oriental) y Coahuila.
 * **Clima:** Adaptado perfectamente a climas semiáridos con veranos muy calurosos, siendo muy tolerante a la sequía y a suelos pobres o calizos.
 
 ---
 
-## Usos
+### Usos
 
 * **Ornamental y Paisajístico:** Es el uso principal en Monterrey, valorado por su sombra densa, su resistencia y por ser perennifolio. Es un árbol clave para la reforestación urbana.
 * **Madera:** Es una madera dura y pesada, utilizada ocasionalmente como leña o carbón, pero menos explotada comercialmente que otros robles.
 
 ---
 
-## Ubicación en el Colegio
+### Ubicación en el Colegio
 
 * *(Dejar en blanco para que se complete la ubicación específica en el campus.)*
 
 ---
 
-## 💡 Curiosidades
+### Curiosidades
 
 * **Resistencia:** Es conocido por ser uno de los encinos más resistentes a la sequía y al calor extremo dentro de su género, por lo que es vital para la ecología de la ciudad.
 * **Longevidad:** Es un árbol muy longevo, pudiendo vivir varios siglos en condiciones ideales.
