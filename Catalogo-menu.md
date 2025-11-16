@@ -12,7 +12,7 @@ Aquí puedes explorar todas las especies que tenemos, clasificadas por tipo.
 {% assign sorted_plantas = site.catalogo | sort: "tipo_planta" %}
 {% for planta in sorted_plantas %}
   <li>
-    <a href="{{ planta.url | relative_url }}">{{ planta.title }}, ({{ planta.tipo-planta }})</a>
+    <a href="{{ planta.url | relative_url }}">{{ planta.title }}, ({{ planta.tipo_planta }})</a>
   </li>
 {% endfor %}
 </ul>
