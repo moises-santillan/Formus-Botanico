@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: page
 title: Guía de Botánica
 permalink: /botanica-menu/
 nav_order: 1
 ---
 
-# 🌿 Guía Completa de Conceptos de Botánica
+## Conceptos Básicos de Botánica
 
 Haz clic en un tema a continuación para obtener más información.
 
