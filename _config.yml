@@ -34,11 +34,13 @@ plugins:
 
 minima:
   skin: solarized-light
+
+minima:
   navbar_links:
-    - title: "Nosotros"
-      url: "/Nosotros/"
     - title: "Inicio"
       url: "/"
+    - title: "Nosotros"
+      url: "/Nosotros/"
 
 collections:
   botanica:
