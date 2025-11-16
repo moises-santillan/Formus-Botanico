@@ -4,6 +4,7 @@
 
 layout: home
 title: Inicio
+permalink: /
 ---
 
 ## Bienvenido al Jardín Botánico Digital del Colegio Formus
