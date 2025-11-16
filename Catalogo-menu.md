@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Catálogo de Plantas
-permalink: /catalogo-menu/
+permalink: /Catalogo-menu/
 ---
 
 ## Catálogo del Jardín Botánico del Colegio
