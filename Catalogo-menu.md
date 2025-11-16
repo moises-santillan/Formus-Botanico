@@ -8,6 +8,7 @@ permalink: /Catalogo-menu/
 
 Aquí puedes explorar todas las especies que tenemos, clasificadas por tipo.
 
+<ul class="plant-list">
 {% assign sorted_pantas = site.catalogo | sort: "tipo_planta" %}
 {% for planta in sorted_plantas %}
   <li>
