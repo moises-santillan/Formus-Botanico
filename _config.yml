@@ -35,17 +35,16 @@ plugins:
 minima:
   skin: solarized-light
 
-minima:
-  navbar_links:
-    - title: "Inicio"
-      url: "/"
-    - title: "Nosotros"
-      url: "/Nosotros/"
+# _config.yml
 
 collections:
   botanica:
     output: true
-    permalink: /Botanica/:name/
+    permalink: /botanica/:name/
+  
+  catalogo:
+    output: true
+    permalink: /catalogo/:name/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
