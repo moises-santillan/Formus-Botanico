@@ -33,7 +33,10 @@ plugins:
   - jekyll-feed
 
 minima:
-  skin: solarized
+  skin: solarized-dark
+  navbar_links:
+    - title: "Nosotros"
+      url: "/Nosotros/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
