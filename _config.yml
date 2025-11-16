@@ -45,7 +45,7 @@ minima:
 collections:
   botanica:
     output: true
-    permalink: /botanica/:name/
+    permalink: /Botanica/:name/
 
 # Exclude from processing.
 # The following items will not be processed, by default.

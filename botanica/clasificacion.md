@@ -2,7 +2,7 @@
 layout: botanica
 title: Clasifiación de las Plantas
 concept_id: 1
-permalink: /botanica/clasificacion/
+permalink: /Botanica/Clasificacion/
 ---
 
 ## El Colegio Formus
