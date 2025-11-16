@@ -13,8 +13,8 @@ Aquí puedes explorar todas las especies que tenemos, clasificadas por tipo.
 {% for planta in plantas_coleccion %}
   <li>
     <a href="{{ planta.url | relative_url }}">
-      **{{ planta.title }}**,
-      <span class="nombre-cientifico">({{ planta.nombre_cientifico }})</span>,
+      <strong>{{ planta.title }}</strong>,
+      <span class="nombre-cientifico">(<em>{{ planta.nombre_cientifico }}</em>)</span>,
       <span class="tipo-planta">Tipo: {{ planta.tipo_planta }}</span>
     </a>
   </li>
