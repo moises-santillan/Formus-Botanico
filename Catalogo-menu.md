@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Catálogo de Plantas
 permalink: /catalogo-menu/
 nav_order: 3

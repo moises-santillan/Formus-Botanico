@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<article class="plant-catalogue-item">
+    
+    <header class="catalogue-header">
+        <h1>{{ page.title }}</h1>
+        
+        {% if page.nombre_cientifico %}
+            <p class="scientific-name">
+                **Nombre Científico:** <em>{{ page.nombre_cientifico }}</em>
+            </p>
+        {% endif %}
+
+        {% if page.tipo_planta %}
+            <p class="plant-type">
+                **Tipo:** {{ page.tipo_planta | capitalize }}
+                {% comment %} El filtro 'capitalize' pondrá la primera letra en mayúscula {% endcomment %}
+            </p>
+        {% endif %}
+    </header>
+    
+    <hr>
+    
+    <section class="plant-details">
+        
+        <h2>Descripción y Características</h2>
+        
+        {{ content }}
+        
+        {% if page.ubicacion %}
+        <div class="location-info">
+            <h3>Ubicación en el Jardín</h3>
+            <p>
+                Puedes encontrar esta planta en la siguiente área: 
+                **{{ page.ubicacion }}**.
+                {% comment %} Aquí podrías añadir un mapa o una foto de referencia si lo deseas. {% endcomment %}
+            </p>
+        </div>
+        {% endif %}
+        
+    </section>
+    
+    <footer>
+        <p class="back-link">
+            <a href="{{ site.baseurl }}/catalogo-menu/">← Volver al Catálogo de Plantas</a>
+        </p>
+    </footer>
+
+</article>
