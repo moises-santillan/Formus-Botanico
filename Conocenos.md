@@ -5,7 +5,7 @@ permalink: /Conocenos/
 nav-include: true
 nav-order: 1
 ---
-***
+
 ### El Colegio
 
 **FORMUS** es una comunidad educativa que acompaña a sus estudiantes desde las primeras etapas de formación, promoviendo autonomía intelectual y socio-moral bajo un enfoque constructivista y humanista.
@@ -28,4 +28,3 @@ Sexto grado representa la fase culminante del Proyecto de Vivero. Aquí, los est
 
 Como parte de esta experiencia, los alumnos catalogan y estudian plantas de su elección, investigando sus características y valor ecológico. Este sitio web es el resultado de ese esfuerzo colectivo, diseñado para compartir el conocimiento generado y celebrar el compromiso con la naturaleza.
 
-***
