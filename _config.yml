@@ -21,7 +21,7 @@
 title: Formus Botánico
 email: moises.santillan.zeron@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  ¡Explora nuestra abundancia vegetal!
+  Jardín Botánico Digital del Colegio Formus
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://moises-santillan.github.io/jardin-botanico" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
