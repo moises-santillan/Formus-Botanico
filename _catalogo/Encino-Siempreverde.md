@@ -3,7 +3,7 @@ layout: catalogo
 title: Encino Siempreverde
 tipo_planta: arbol
 nombre_cientifico: Quercus fusiformis
-permalink: /Catalogo/Encino-Siempreverde/
+permalink: /catalogo/encino-siempreverde/
 ---
 
 ### Taxonomía
