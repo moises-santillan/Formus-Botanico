@@ -65,7 +65,8 @@ Las plantas con semilla se dividen tradicionalmente en dos grandes grupos según
 
 | Clado de Angiospermas | Cotiledones | Nervadura de la Hoja | Ejemplos |
 | :--- | :--- | :--- | :--- |
-| **Monocotiledóneas** | Uno | Paralela | Pastos, Maíz, Palmeras. |
+| **Angiospermas Basales (Grado ANITA)** | Uno o Dos | Generalmente reticulada; a veces con nervios poco definidos | 
+| **Monocotiledóneas** | Uno | Paralela | Pastos, Maíz, Palmeras. | Amborella, Litios de agua (Ninfáseas), Anís estrellado|
 | **Magnólidas** (*Magnoliidae*) | Dos | Reticulada | Magnolias, Laurel, Canela. |
 | **Eudicotiledóneas** | Dos | Reticulada o ramificada | Rosales, Robles, Girasol. |
 
