@@ -1,0 +1,31 @@
+---
+layout: page
+---
+
+<article class="plant-catalogue-item">
+    
+    <header class="catalogue-header">
+        <h2>{{ page.title }}</h2>
+        
+        {% if page.nombre_cientifico %}
+            <p class="scientific-name">
+                <strong>Nombre Científico:</strong> <em>{{ page.nombre_cientifico }}</em>
+            </p>
+        {% endif %}
+    </header>
+    
+    <hr>
+    
+    <section class="plant-details">
+                
+        {{ content }}
+                
+    </section>
+    
+    <footer>
+        <p class="back-link">
+            <a href="{{ site.baseurl }}/catalogo-menu/">← Volver al Catálogo de Plantas</a>
+        </p>
+    </footer>
+
+</article>

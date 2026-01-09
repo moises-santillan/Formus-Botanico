@@ -1,0 +1,20 @@
+---
+layout: page
+title: Guía de Botánica
+permalink: /botanica-menu/
+nav-include: true
+nav-order: 2
+---
+
+## Conceptos Básicos de Botánica
+
+Haz clic en un tema a continuación para obtener más información.
+
+<ul class="concept-list">
+{% assign sorted_botanica = site.botanica | sort: "concept_id" %}
+{% for concepto in sorted_botanica %}
+  <li>
+    <a href="{{ concepto.url | relative_url }}"><strong>{{ concepto.title }}</strong></a>
+  </li>
+{% endfor %}
+</ul>
