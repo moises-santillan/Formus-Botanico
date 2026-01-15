@@ -2,7 +2,7 @@
 layout: botanica
 title: Clasificación de las Plantas
 concept_id: 1
-permalink: /Botanica/Clasificacion/
+permalink: /botanica/clasificacion/
 ---
 
 ## La Clasificación de las Plantas: De Linneo a la Filogenia Moderna
