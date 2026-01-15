@@ -2,7 +2,7 @@
 layout: botanica
 title: Las Raíces
 concept_id: 5
-permalink: /Botanica/Raices/
+permalink: /botanica/raices/
 ---
 
 ## El Colegio Formus
