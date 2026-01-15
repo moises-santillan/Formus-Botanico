@@ -2,7 +2,7 @@
 layout: botanica
 title: Las Flores
 concept_id: 4
-permalink: /Botanica/Flores/
+permalink: /botanica/flores/
 ---
 
 ## El Colegio Formus
