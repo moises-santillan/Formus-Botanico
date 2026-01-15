@@ -2,7 +2,7 @@
 layout: botanica
 title: Las Hojas
 concept_id: 2
-permalink: /Botanica/Hojas/
+permalink: /botanica/hojas/
 ---
 
 ## Las Hojas: El Corazón Fotosintético de la Planta
