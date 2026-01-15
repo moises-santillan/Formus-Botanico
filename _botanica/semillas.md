@@ -2,7 +2,7 @@
 layout: botanica
 title: Las Semillas
 concept_id: 3
-permalink: /Botanica/Semillas/
+permalink: /botanica/semillas/
 ---
 
 ## La Semilla: El Milagro de la Supervivencia
